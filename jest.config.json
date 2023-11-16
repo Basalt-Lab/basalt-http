@@ -1,5 +1,5 @@
 {
-  "displayName": "basalt-socket-tests",
+  "displayName": "basalt-http-tests",
   "preset": "ts-jest",
   "coverageDirectory": "./coverage",
   "moduleNameMapper": {
